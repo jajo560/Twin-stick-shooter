@@ -1488,9 +1488,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a4d590b6ddc564e4c95816916e384e6e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speedRotation: 1
+  speedRotation: 2
   stoppingDistance: 3
-  moveSpeed: 3
+  moveSpeed: 1
   timer: 3
   player: {fileID: 0}
   animator: {fileID: 0}
